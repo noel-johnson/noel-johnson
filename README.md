@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noel-johnson&no-bg=true&no-frame=true&theme=onedark" alt="noel-johnson" /></a> </p>
 
-- 🔭 I’m currently working on [Openvy](https://openvy.com/)
+- 🔭 Worked on creating mobile application for [Openvy](https://openvy.com/)
 
 - 🌱 I’m currently learning **Flutter and Web animations**
 
